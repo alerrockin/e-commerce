@@ -10,24 +10,24 @@ import * as firebase from "firebase";
 export class ExplorePage implements OnInit {
   categories: Array<any> = [
     {
-      name: "Lifestyle",
-      icon: "heart-outline",
+      name: "Computadores de mesa",
+      icon: "desktop-outline",
       color: "danger"
     },
     {
-      name: "Entertainment",
-      icon: "tv-outline",
+      name: "Portátiles",
+      icon: "laptop-outline",
       color: "success"
     }
     ,
     {
-      name: "Fitness",
-      icon: "walk-outline",
+      name: "Accesorios",
+      icon: "headset-outline",
       color: "warning"
     },
     {
-      name: "Medical",
-      icon: "medical-outline",
+      name: "Componentes de PC",
+      icon: "construct-outline",
       color: "secondary"
     }
   ]

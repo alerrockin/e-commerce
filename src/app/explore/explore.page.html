@@ -1,12 +1,12 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>Explore</ion-title>
+    <ion-title>Explorar</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
   <ion-list-header>
-    <ion-label>Top Categoris</ion-label>
+    <ion-label>Categorias Destacadas</ion-label>
   </ion-list-header>
   <ion-item lines="none" *ngFor="let category of categories" (click)="exploreCategory(category.name)">
     <ion-icon slot="start" name="{{category.icon}}" color="{{category.color}}"></ion-icon>

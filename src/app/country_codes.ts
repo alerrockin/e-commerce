@@ -12,7 +12,7 @@ export var codes = [
         "dial_code": "+213",
         "code": "DZ"
     }, {
-        "name": "American Samoa",
+        "name": "Samoa Americano",
         "dial_code": "+1", 
         "code": "AS"
     }, {
@@ -28,11 +28,11 @@ export var codes = [
         "dial_code": "+1",
         "code": "AI"
     }, {
-        "name": "Antarctica",
+        "name": "Antartica",
         "dial_code": "+672",
         "code": "AQ"
     }, {
-        "name": "Antigua and Barbuda",
+        "name": "Antigua y Barbuda",
         "dial_code": "+1",
         "code": "AG"
     }, {
@@ -64,7 +64,7 @@ export var codes = [
         "dial_code": "+1",
         "code": "BS"
     }, {
-        "name": "Bahrain",
+        "name": "Baréin",
         "dial_code": "+973",
         "code": "BH"
     }, {
@@ -80,11 +80,11 @@ export var codes = [
         "dial_code": "+375",
         "code": "BY"
     }, {
-        "name": "Belgium",
+        "name": "Bélgica",
         "dial_code": "+32",
         "code": "BE"
     }, {
-        "name": "Belize",
+        "name": "Belice",
         "dial_code": "+501",
         "code": "BZ"
     }, {
@@ -92,11 +92,11 @@ export var codes = [
         "dial_code": "+229",
         "code": "BJ"
     }, {
-        "name": "Bermuda",
+        "name": "Bermudas",
         "dial_code": "+1",
         "code": "BM"
     }, {
-        "name": "Bhutan",
+        "name": "Bután",
         "dial_code": "+975",
         "code": "BT"
     }, {
@@ -104,7 +104,7 @@ export var codes = [
         "dial_code": "+591",
         "code": "BO"
     }, {
-        "name": "Bosnia and Herzegovina",
+        "name": "Bosnia y Herzegovina",
         "dial_code": "+387",
         "code": "BA"
     }, {
@@ -116,7 +116,7 @@ export var codes = [
         "dial_code": "+55",
         "code": "BR"
     }, {
-        "name": "British Indian Ocean Territory",
+        "name": "Territorio Britanico del Oceano Indico",
         "dial_code": "+246",
         "code": "IO"
     }, {
@@ -140,7 +140,7 @@ export var codes = [
         "dial_code": "+855",
         "code": "KH"
     }, {
-        "name": "Cameroon",
+        "name": "Camerun",
         "dial_code": "+237",
         "code": "CM"
     }, {
@@ -148,15 +148,15 @@ export var codes = [
         "dial_code": "+1",
         "code": "CA"
     }, {
-        "name": "Cape Verde",
+        "name": "Cabo Verde",
         "dial_code": "+238",
         "code": "CV"
     }, {
-        "name": "Cayman Islands",
+        "name": "Islas Caiman",
         "dial_code": "+1",
         "code": "KY"
     }, {
-        "name": "Central African Republic",
+        "name": "Republica Centroafricana",
         "dial_code": "+236",
         "code": "CF"
     }, {
@@ -172,11 +172,11 @@ export var codes = [
         "dial_code": "+86",
         "code": "CN"
     }, {
-        "name": "Christmas Island",
+        "name": "Isla de Navidad",
         "dial_code": "+61",
         "code": "CX"
     }, {
-        "name": "Cocos (Keeling) Islands",
+        "name": "Islas Cocos (Keeling)",
         "dial_code": "+61",
         "code": "CC"
     }, {
@@ -192,11 +192,11 @@ export var codes = [
         "dial_code": "+242",
         "code": "CG"
     }, {
-        "name": "Congo (Dem. Rep.)",
+        "name": "Congo (Rep. Dem.)",
         "dial_code": "+243",
         "code": "CD"
     }, {
-        "name": "Cook Islands",
+        "name": "Islas Cook",
         "dial_code": "+682",
         "code": "CK"
     }, {
@@ -204,11 +204,11 @@ export var codes = [
         "dial_code": "+506",
         "code": "CR"
     }, {
-        "name": "Cote d'Ivoire",
+        "name": "Costa de Marfil",
         "dial_code": "+225",
         "code": "CI"
     }, {
-        "name": "Croatia",
+        "name": "Croacia",
         "dial_code": "+385",
         "code": "HR"
     }, {
@@ -222,19 +222,19 @@ export var codes = [
         "code": "CW"
     },
     {
-        "name": "Cyprus",
+        "name": "Chipre",
         "dial_code": "+357",
         "code": "CY"
     }, {
-        "name": "Czechia",
+        "name": "Chequia (Republica Checa)",
         "dial_code": "+420",
         "code": "CZ"
     }, {
-        "name": "Denmark",
+        "name": "Dinamarca",
         "dial_code": "+45",
         "code": "DK"
     }, {
-        "name": "Djibouti",
+        "name": "Yibuti",
         "dial_code": "+253",
         "code": "DJ"
     }, {
@@ -242,7 +242,7 @@ export var codes = [
         "dial_code": "+1",
         "code": "DM"
     }, {
-        "name": "Dominican Republic",
+        "name": "Republica Dominicana",
         "dial_code": "+1",
         "code": "DO"
     }, {
@@ -250,7 +250,7 @@ export var codes = [
         "dial_code": "+593",
         "code": "EC"
     }, {
-        "name": "Egypt",
+        "name": "Egipto",
         "dial_code": "+20",
         "code": "EG"
     }, {
@@ -258,7 +258,7 @@ export var codes = [
         "dial_code": "+503",
         "code": "SV"
     }, {
-        "name": "Equatorial Guinea",
+        "name": "Guinea Equatoriana",
         "dial_code": "+240",
         "code": "GQ"
     }, {
@@ -270,35 +270,35 @@ export var codes = [
         "dial_code": "+372",
         "code": "EE"
     }, {
-        "name": "Ethiopia",
+        "name": "Etiopia",
         "dial_code": "+251",
         "code": "ET"
     }, {
-        "name": "Falkland Islands (Malvinas)",
+        "name": "Islas Falkland (Malvinas)",
         "dial_code": "+500",
         "code": "FK"
     }, {
-        "name": "Faroe Islands",
+        "name": "Islas Feroe",
         "dial_code": "+298",
         "code": "FO"
     }, {
-        "name": "Fiji",
+        "name": "Fiyi",
         "dial_code": "+679",
         "code": "FJ"
     }, {
-        "name": "Finland",
+        "name": "Finlandia",
         "dial_code": "+358",
         "code": "FI"
     }, {
-        "name": "France",
+        "name": "Francia",
         "dial_code": "+33",
         "code": "FR"
     }, {
-        "name": "French Guiana",
+        "name": "Guayana Francesa",
         "dial_code": "+594",
         "code": "GF"
     }, {
-        "name": "French Polynesia",
+        "name": "Polinesia Francesa",
         "dial_code": "+689",
         "code": "PF"
     }, {
@@ -314,7 +314,7 @@ export var codes = [
         "dial_code": "+995",
         "code": "GE"
     }, {
-        "name": "Germany",
+        "name": "Alemania",
         "dial_code": "+49",
         "code": "DE"
     }, {
@@ -326,19 +326,19 @@ export var codes = [
         "dial_code": "+350",
         "code": "GI"
     }, {
-        "name": "Greece",
+        "name": "Grecia",
         "dial_code": "+30",
         "code": "GR"
     }, {
-        "name": "Greenland",
+        "name": "Groenlandia",
         "dial_code": "+299",
         "code": "GL"
     }, {
-        "name": "Grenada",
+        "name": "Granada",
         "dial_code": "+1",
         "code": "GD"
     }, {
-        "name": "Guadeloupe",
+        "name": "Guadalupe",
         "dial_code": "+590",
         "code": "GP"
     }, {
@@ -378,11 +378,11 @@ export var codes = [
         "dial_code": "+852",
         "code": "HK"
     }, {
-        "name": "Hungary",
+        "name": "Hungaria",
         "dial_code": "+36",
         "code": "HU"
     }, {
-        "name": "Iceland",
+        "name": "Islandia",
         "dial_code": "+354",
         "code": "IS"
     }, {
@@ -402,11 +402,11 @@ export var codes = [
         "dial_code": "+964",
         "code": "IQ"
     }, {
-        "name": "Ireland",
+        "name": "Irlanda",
         "dial_code": "+353",
         "code": "IE"
     }, {
-        "name": "Isle of Man",
+        "name": "Isla de Man",
         "dial_code": "+44",
         "code": "IM"
     }, {
@@ -414,7 +414,7 @@ export var codes = [
         "dial_code": "+972",
         "code": "IL"
     }, {
-        "name": "Italy",
+        "name": "Italia",
         "dial_code": "+39",
         "code": "IT"
     }, {
@@ -422,7 +422,7 @@ export var codes = [
         "dial_code": "+1",
         "code": "JM"
     }, {
-        "name": "Japan",
+        "name": "Japon",
         "dial_code": "+81",
         "code": "JP"
     }, {
@@ -434,7 +434,7 @@ export var codes = [
         "dial_code": "+962",
         "code": "JO"
     }, {
-        "name": "Kazakhstan",
+        "name": "Kazajistan",
         "dial_code": "+7",
         "code": "KZ"
     }, {
@@ -450,7 +450,7 @@ export var codes = [
         "dial_code": "+965",
         "code": "KW"
     }, {
-        "name": "Kyrgyzstan",
+        "name": "Kirguistan",
         "dial_code": "+996",
         "code": "KG"
     }, {
@@ -458,15 +458,15 @@ export var codes = [
         "dial_code": "+856",
         "code": "LA"
     }, {
-        "name": "Latvia",
+        "name": "Letonia",
         "dial_code": "+371",
         "code": "LV"
     }, {
-        "name": "Lebanon",
+        "name": "Libano",
         "dial_code": "+961",
         "code": "LB"
     }, {
-        "name": "Lesotho",
+        "name": "Lesoto",
         "dial_code": "+266",
         "code": "LS"
     }, {
@@ -474,7 +474,7 @@ export var codes = [
         "dial_code": "+231",
         "code": "LR"
     }, {
-        "name": "Libya",
+        "name": "Libia",
         "dial_code": "+218",
         "code": "LY"
     }, {
@@ -482,11 +482,11 @@ export var codes = [
         "dial_code": "+423",
         "code": "LI"
     }, {
-        "name": "Lithuania",
+        "name": "Lituania",
         "dial_code": "+370",
         "code": "LT"
     }, {
-        "name": "Luxembourg",
+        "name": "Luxemburgo",
         "dial_code": "+352",
         "code": "LU"
     }, {
@@ -510,7 +510,7 @@ export var codes = [
         "dial_code": "+60",
         "code": "MY"
     }, {
-        "name": "Maldives",
+        "name": "Maldivas",
         "dial_code": "+960",
         "code": "MV"
     }, {
@@ -522,11 +522,11 @@ export var codes = [
         "dial_code": "+356",
         "code": "MT"
     }, {
-        "name": "Marshall Islands",
+        "name": "Islas Marshall",
         "dial_code": "+692",
         "code": "MH"
     }, {
-        "name": "Martinique",
+        "name": "Martinica",
         "dial_code": "+596",
         "code": "MQ"
     }, {
@@ -534,7 +534,7 @@ export var codes = [
         "dial_code": "+222",
         "code": "MR"
     }, {
-        "name": "Mauritius",
+        "name": "Mauricio",
         "dial_code": "+230",
         "code": "MU"
     }, {
@@ -550,7 +550,7 @@ export var codes = [
         "dial_code": "+691",
         "code": "FM"
     }, {
-        "name": "Moldova",
+        "name": "Moldavia",
         "dial_code": "+373",
         "code": "MD"
     }, {
@@ -578,7 +578,7 @@ export var codes = [
         "dial_code": "+258",
         "code": "MZ"
     }, {
-        "name": "Myanmar (Burma)",
+        "name": "Birmania (Burma)",
         "dial_code": "+95",
         "code": "MM"
     }, {
@@ -594,19 +594,19 @@ export var codes = [
         "dial_code": "+977",
         "code": "NP"
     }, {
-        "name": "Netherlands",
+        "name": "Paises Bajos",
         "dial_code": "+31",
         "code": "NL"
     }, {
-        "name": "Netherlands Antilles",
+        "name": "Antillas Neerlandesas",
         "dial_code": "+599",
         "code": "AN"
     }, {
-        "name": "New Caledonia",
+        "name": "Nueva Caledonia",
         "dial_code": "+687",
         "code": "NC"
     }, {
-        "name": "New Zealand",
+        "name": "Nueva Zelanda",
         "dial_code": "+64",
         "code": "NZ"
     }, {
@@ -626,20 +626,20 @@ export var codes = [
         "dial_code": "+683",
         "code": "NU"
     }, {
-        "name": "Norfolk Island",
+        "name": "Isla Norfolk",
         "dial_code": "+672",
         "code": "NF"
     },
     {
-        "name": "North Korea",
+        "name": "Korea del Norte",
         "dial_code": "+850",
         "code": "KP"
     }, {
-        "name": "Northern Mariana Islands",
+        "name": "Islas Marianas del Norte",
         "dial_code": "+1",
         "code": "MP"
     }, {
-        "name": "Norway",
+        "name": "Noruega",
         "dial_code": "+47",
         "code": "NO"
     }, {
@@ -651,11 +651,11 @@ export var codes = [
         "dial_code": "+92",
         "code": "PK"
     }, {
-        "name": "Palau",
+        "name": "Palaos",
         "dial_code": "+680",
         "code": "PW"
     }, {
-        "name": "Palestine",
+        "name": "Palestina",
         "dial_code": "+970",
         "code": "PS"
     }, {
@@ -663,7 +663,7 @@ export var codes = [
         "dial_code": "+507",
         "code": "PA"
     }, {
-        "name": "Papua New Guinea",
+        "name": "Papua Nueva Guinea",
         "dial_code": "+675",
         "code": "PG"
     }, {
@@ -675,15 +675,15 @@ export var codes = [
         "dial_code": "+51",
         "code": "PE"
     }, {
-        "name": "Philippines",
+        "name": "Filipinas",
         "dial_code": "+63",
         "code": "PH"
     }, {
-        "name": "Pitcairn",
+        "name": "Islas Pitcairn",
         "dial_code": "+872",
         "code": "PN"
     }, {
-        "name": "Poland",
+        "name": "Polonia",
         "dial_code": "+48",
         "code": "PL"
     }, {
@@ -699,47 +699,47 @@ export var codes = [
         "dial_code": "+974",
         "code": "QA"
     }, {
-        "name": "Romania",
+        "name": "Rumania",
         "dial_code": "+40",
         "code": "RO"
     }, {
-        "name": "Russia",
+        "name": "Rusia",
         "dial_code": "+7",
         "code": "RU"
     }, {
-        "name": "Rwanda",
+        "name": "Ruanda",
         "dial_code": "+250",
         "code": "RW"
     }, {
-        "name": "Réunion",
+        "name": "Isla Reunion",
         "dial_code": "+262",
         "code": "RE"
     }, {
-        "name": "Saint Barthélemy",
+        "name": "San Bartolome",
         "dial_code": "+590",
         "code": "BL"
     }, {
-        "name": "Saint Helena",
+        "name": "Santa Helena",
         "dial_code": "+290",
         "code": "SH"
     }, {
-        "name": "Saint Kitts and Nevis",
+        "name": "San Cristóbal y Nieves",
         "dial_code": "+1",
         "code": "KN"
     }, {
-        "name": "Saint Lucia",
+        "name": "Santa Lucía",
         "dial_code": "+1",
         "code": "LC"
     }, {
-        "name": "Saint Martin",
+        "name": "Isla de San Martín",
         "dial_code": "+590",
         "code": "MF"
     }, {
-        "name": "Saint Pierre and Miquelon",
+        "name": "San Pedro y Miquelón",
         "dial_code": "+508",
         "code": "PM"
     }, {
-        "name": "Saint Vincent and the Grenadines",
+        "name": "San Vicente y las Granadinas",
         "dial_code": "+1",
         "code": "VC"
     }, {
@@ -751,11 +751,11 @@ export var codes = [
         "dial_code": "+378",
         "code": "SM"
     }, {
-        "name": "Sao Tome and Principe",
+        "name": "Santo Tomé y Príncipe",
         "dial_code": "+239",
         "code": "ST"
     }, {
-        "name": "Saudi Arabia",
+        "name": "Arabia Saudita",
         "dial_code": "+966",
         "code": "SA"
     }, {
@@ -771,23 +771,23 @@ export var codes = [
         "dial_code": "+248",
         "code": "SC"
     }, {
-        "name": "Sierra Leone",
+        "name": "Sierra Leona",
         "dial_code": "+232",
         "code": "SL"
     }, {
-        "name": "Singapore",
+        "name": "Singapur",
         "dial_code": "+65",
         "code": "SG"
     }, {
-        "name": "Slovakia",
+        "name": "Eslovaquia",
         "dial_code": "+421",
         "code": "SK"
     }, {
-        "name": "Slovenia",
+        "name": "Eslovenia",
         "dial_code": "+386",
         "code": "SI"
     }, {
-        "name": "Solomon Islands",
+        "name": "Islas Salomon",
         "dial_code": "+677",
         "code": "SB"
     }, {
@@ -795,24 +795,24 @@ export var codes = [
         "dial_code": "+252",
         "code": "SO"
     }, {
-        "name": "South Africa",
+        "name": "Sudáfrica",
         "dial_code": "+27",
         "code": "ZA"
     },
     {
-        "name": "South Korea",
+        "name": "Korea del Sur",
         "dial_code": "+82",
         "code": "KR"
     }, {
-        "name": "South Sudan",
+        "name": "Sudán del Sur",
         "dial_code": "+211",
         "code": "SS"
     }, {
-        "name": "South Georgia and the South Sandwich Islands",
+        "name": "Islas Georgias del Sur y Sandwich del Sur",
         "dial_code": "+500",
         "code": "GS"
     }, {
-        "name": "Spain",
+        "name": "España",
         "dial_code": "+34",
         "code": "ES"
     }, {
@@ -824,27 +824,27 @@ export var codes = [
         "dial_code": "+249",
         "code": "SD"
     }, {
-        "name": "Suriname",
+        "name": "Surinam",
         "dial_code": "+597",
         "code": "SR"
     }, {
-        "name": "Svalbard and Jan Mayen",
+        "name": "Svalbard y Jan Mayen",
         "dial_code": "+47",
         "code": "SJ"
     }, {
-        "name": "Swaziland",
+        "name": "Suazilandia",
         "dial_code": "+268",
         "code": "SZ"
     }, {
-        "name": "Sweden",
+        "name": "Suecia",
         "dial_code": "+46",
         "code": "SE"
     }, {
-        "name": "Switzerland",
+        "name": "Suiza",
         "dial_code": "+41",
         "code": "CH"
     }, {
-        "name": "Syria",
+        "name": "Siria",
         "dial_code": "+963",
         "code": "SY"
     }, {
@@ -852,7 +852,7 @@ export var codes = [
         "dial_code": "+886",
         "code": "TW"
     }, {
-        "name": "Tajikistan",
+        "name": "Tayikistán",
         "dial_code": "+992",
         "code": "TJ"
     }, {
@@ -860,15 +860,15 @@ export var codes = [
         "dial_code": "+255",
         "code": "TZ"
     }, {
-        "name": "Thailand",
+        "name": "Tailandia",
         "dial_code": "+66",
         "code": "TH"
     }, {
-        "name": "Timor-Leste",
+        "name": "Timor Oriental",
         "dial_code": "+670",
         "code": "TL"
     }, {
-        "name": "Togo",
+        "name": "República Togolesa",
         "dial_code": "+228",
         "code": "TG"
     }, {
@@ -880,23 +880,23 @@ export var codes = [
         "dial_code": "+676",
         "code": "TO"
     }, {
-        "name": "Trinidad and Tobago",
+        "name": "Trinidad y Tobago",
         "dial_code": "+1",
         "code": "TT"
     }, {
-        "name": "Tunisia",
+        "name": "Túnez",
         "dial_code": "+216",
         "code": "TN"
     }, {
-        "name": "Turkey",
+        "name": "Turquia",
         "dial_code": "+90",
         "code": "TR"
     }, {
-        "name": "Turkmenistan",
+        "name": "Turkmenistán",
         "dial_code": "+993",
         "code": "TM"
     }, {
-        "name": "Turks and Caicos Islands",
+        "name": "Islas Turcas y Caicos",
         "dial_code": "+1",
         "code": "TC"
     }, {
@@ -908,19 +908,19 @@ export var codes = [
         "dial_code": "+256",
         "code": "UG"
     }, {
-        "name": "Ukraine",
+        "name": "Ucrania",
         "dial_code": "+380",
         "code": "UA"
     }, {
-        "name": "United Arab Emirates",
+        "name": "Emiratos Árabes Unidos",
         "dial_code": "+971",
         "code": "AE"
     }, {
-        "name": "United Kingdom",
+        "name": "Reino Unido",
         "dial_code": "+44",
         "code": "GB"
     }, {
-        "name": "United States",
+        "name": "Estados Unidos",
         "dial_code": "+1",
         "code": "US"
     }, {
@@ -928,7 +928,7 @@ export var codes = [
         "dial_code": "+598",
         "code": "UY"
     }, {
-        "name": "Uzbekistan",
+        "name": "Uzbekistán",
         "dial_code": "+998",
         "code": "UZ"
     }, {
@@ -936,7 +936,7 @@ export var codes = [
         "dial_code": "+678",
         "code": "VU"
     }, {
-        "name": "Vatican City",
+        "name": "Ciudad del Vaticano",
         "dial_code": "+379",
         "code": "VA"
     }, {
@@ -948,19 +948,19 @@ export var codes = [
         "dial_code": "+84",
         "code": "VN"
     }, {
-        "name": "Virgin Islands, British",
+        "name": "Islas Vírgenes Británicas",
         "dial_code": "+1",
         "code": "VG"
     }, {
-        "name": "Virgin Islands, U.S.",
+        "name": "Islas Vírgenes de los Estados Unidos",
         "dial_code": "+1",
         "code": "VI"
     }, {
-        "name": "Wallis and Futuna",
+        "name": "Wallis y Futuna",
         "dial_code": "+681",
         "code": "WF"
     },{
-        "name":"Western Sahara",
+        "name":"Sahara Occidental",
         "dial_code":"+212",
         "code":"EH",
     } ,{
@@ -972,11 +972,11 @@ export var codes = [
         "dial_code": "+260",
         "code": "ZM"
     }, {
-        "name": "Zimbabwe",
+        "name": "Zimbabue",
         "dial_code": "+263",
         "code": "ZW"
     }, {
-        "name": "Åland Islands",
+        "name": "Islas Åland",
         "dial_code": "+358",
         "code": "AX"
     }

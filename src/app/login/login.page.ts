@@ -8,17 +8,17 @@ import { NavController, PopoverController } from "@ionic/angular";
   styleUrls: ['./login.page.scss'],
 })
 export class LoginPage implements OnInit {
-  code: string = "+1"; //default country code
+  code: string = "+1"; //default
   spin: boolean = false; //spinner
-  otpSent: boolean = false; //OTP sent status
+  otpSent: boolean = false; //OTP status
 
   recaptchaVerifier;
   confirmationResult: firebase.auth.ConfirmationResult;
 
-  phoneNumber: string; //set value after OTP is sent
+  phoneNumber: string; //set value si OTP enviado
 
   constructor(public nav: NavController, public popoverController: PopoverController) {
-    //keep track of currently selected country code
+    //guardar codigo pais
     setInterval(() => {
       if (sessionStorage.getItem("code")) {
         this.code = sessionStorage.getItem("code");
@@ -30,7 +30,7 @@ export class LoginPage implements OnInit {
     this.recaptchaVerifier = new firebase.auth.RecaptchaVerifier('recaptcha-container', { 'size': 'invisible' });
   }
 
-  //Navigate to Country Codes Page
+  //Acceder a country-codes
   showCodes() {
     this.nav.navigateForward("/country-codes");
   }
@@ -56,17 +56,17 @@ export class LoginPage implements OnInit {
 
     this.confirmationResult.confirm(otp).then((data) => {
       this.spin = false;
-      //Save user uid to localStorage
+      //guardar user uid en localStorage
       localStorage.setItem("uid", data.user.uid);
-      //Save phoneNumber to localStorage
+      //guardar phoneNumber en localStorage
       localStorage.setItem("phoneNumber", data.user.phoneNumber);
 
-      //If user has name
-      //navigate to home page
+      //si user tiene nombre
+      //ir a pagina home
       if (data.user.displayName) {
         this.nav.navigateRoot("/");
       }
-      //navigate to profile setup page
+      //ir a pagina setup
       else {
         this.nav.navigateRoot("/setup");
       }

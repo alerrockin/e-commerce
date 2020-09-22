@@ -22,15 +22,15 @@
     </ion-button>
     <ion-button color="secondary" fill="clear" (click)="buyNow()">
       <ion-icon slot="start" name="pricetag-outline"></ion-icon>
-      Buy Now
+      ¡Comprar!
     </ion-button>
 
     <ion-segment [(ngModel)]="segment" (ionChange)="changeSeg()">
       <ion-segment-button value="relatedProducts">
-        <ion-label>Related</ion-label>
+        <ion-label>Productos Relacionados</ion-label>
       </ion-segment-button>
       <ion-segment-button value="fromCompany">
-        <ion-label>From {{productCompany}}</ion-label>
+        <ion-label>De {{productCompany}}</ion-label>
       </ion-segment-button>
     </ion-segment>
   </div>
@@ -54,7 +54,7 @@
                 {{product.name}}
               </h2>
               <p>
-                Price: {{product.price}}
+                Precio: {{product.price}}
               </p>
               <ion-note>{{product.company}}</ion-note>
             </ion-label>
@@ -83,7 +83,7 @@
                 {{product.name}}
               </h2>
               <p>
-                Price: {{product.price}}
+                Precio: {{product.price}}
               </p>
               <ion-note>{{product.company}}</ion-note>
             </ion-label>
