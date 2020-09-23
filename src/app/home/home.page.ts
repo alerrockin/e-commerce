@@ -16,7 +16,7 @@ export class HomePage {
       snap.forEach(childSnap => {
         this.lastKey = childSnap.key;
         this.products.push({ id: childSnap.key, ...childSnap.val() });
-        //console.log(childSnap.val());
+        //console.log(childSnap.val()); Para implementar
       })
     })
   }

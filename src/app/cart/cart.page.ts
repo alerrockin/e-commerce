@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { NavController, PopoverController } from '@ionic/angular';
-//Popover component
+//Popover component (funcion para confirmar compra)
 import { PlaceOrderPage } from "../place-order/place-order.page";
 
 

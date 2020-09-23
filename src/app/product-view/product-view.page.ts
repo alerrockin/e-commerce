@@ -43,7 +43,7 @@ export class ProductViewPage implements OnInit {
       this.cartText = "Add to Cart";
     }
 
-    //Related Products
+    //Productos Relacionados
     firebase.database().ref("products").orderByChild("category").equalTo(this.productCategory).limitToFirst(10).once("value", snap => {
       snap.forEach(childSanp => {
         if (childSanp.key != this.productId) {
@@ -60,7 +60,7 @@ export class ProductViewPage implements OnInit {
   changeSeg() {
     if (this.segment == "fromCompany") {
       if (this.from.length == 0) {
-        //Products from this company
+        //Productos de la misma empresa
         firebase.database().ref("products").orderByChild("company").equalTo(this.productCompany).limitToFirst(10).once("value", snap => {
           snap.forEach(childSanp => {
             if (childSanp.key != this.productId) {

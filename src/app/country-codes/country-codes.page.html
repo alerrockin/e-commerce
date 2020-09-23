@@ -11,7 +11,7 @@
   <ion-searchbar placeholder="Buscar nombre o código del país" (ionChange)="search($event)" animated mode="ios">
   </ion-searchbar>
 
-  <!--All Country Codes -->
+  <!--codigos de paises -->
   <ion-virtual-scroll [items]="countries">
     <ion-item *virtualItem="let country" (click)="selectCode(country.dial_code)">
       <img src="{{'/assets/flags/'+country.code+'.png'}}" style="width: 30px;" slot="start" alt="">
