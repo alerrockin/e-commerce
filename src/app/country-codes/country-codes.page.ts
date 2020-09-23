@@ -24,7 +24,6 @@ export class CountryCodesPage implements OnInit {
   search(evt) {
     var key: string = evt.target.value;
 
-    //Re-initialize countries array on each input
     this.countries = codes;
 
     if (key.length > 0) {
